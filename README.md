@@ -16,6 +16,11 @@ Build terraces like those of Machu Picchu, drop sacred stone blocks, and receive
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Pygame](https://img.shields.io/badge/Pygame-2.5.0+-yellow)
+![Status](https://img.shields.io/badge/Status-Playable-brightgreen)
+---
+
 ## 🎮 How to Play
 
 ```bash
@@ -28,3 +33,5 @@ pip install -r requirements.txt
 
 # Run the game
 python main.py
+
+
