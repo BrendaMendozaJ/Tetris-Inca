@@ -20,7 +20,7 @@ Build terraces like those of Machu Picchu, drop sacred stone blocks, and receive
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/Tetris-Inca.git
+git clone https://github.com/BrendaMendozaJ/Tetris-Inca
 cd Tetris-Inca
 
 # Install dependencies
